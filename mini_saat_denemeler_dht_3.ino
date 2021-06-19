@@ -4,12 +4,12 @@ Original: Mini Clock v1.0, Jul 2014 by Nick Hall
 Distributed under the terms of the GPL.
 
 For help on how to build the clock you can see my youtube:
-TR.ALP.18
+Dr.TRonik
 
 ***********************************************************************
 
 
-Modified to "Multi-Mode Digi" by TR.ALP.18
+Modified to "Multi-Mode Digi" by Dr.TRonik
 https://www.ronaer.com
 
 Tested with Arduino-IDE v1.8.8 
@@ -2732,7 +2732,7 @@ void wipeInside(){
 
 ////////////////////////////////////////////////////////////////////////////////////////
 
-/* Modified by YouTube--->TR.ALP.18 to Turkish Language / Türkçe yazan saat, derece ve nem ölçer ile bilikte...
+/* Modified by YouTube--->Dr.TRonik to Turkish Language / Türkçe yazan saat, derece ve nem ölçer ile bilikte...
 /// scroll: scroll text from right to left - not used at present - too slow.
 void scroll() {
 
